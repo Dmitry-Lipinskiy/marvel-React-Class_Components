@@ -1,0 +1,1 @@
+export { MarvelService } from './MarvelService';

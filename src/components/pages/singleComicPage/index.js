@@ -1,0 +1,1 @@
+export { SingleComicPage } from './SingleComicPage';
